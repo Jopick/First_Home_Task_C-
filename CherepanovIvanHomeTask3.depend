@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1729511751 source:c:\users\piple\onedrive\Рабочий стол\cherepanovivanhometask3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+

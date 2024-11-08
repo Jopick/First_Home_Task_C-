@@ -1,0 +1,12 @@
+model honor
+screenDiagonal 434.34
+weight 123
+ 
+model iPhoneS
+screenDiagonal 9.7
+weight 232000
+ 
+model xiaomi
+screenDiagonal 40.99
+weight 100
+ 
