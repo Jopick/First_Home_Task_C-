@@ -29,6 +29,7 @@ struct devises{
 int main()
 {
     //vector <devises> devisesArray;
+
     mimic <devises> devisesArray;
 
     wifstream in;
@@ -80,6 +81,7 @@ int main()
 
     thisIsCopypast << "file was rewrite";
     cout << "vtgr";
+    cout << "Hello world";
 
     return 0;
 }

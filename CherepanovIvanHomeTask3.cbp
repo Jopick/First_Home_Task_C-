@@ -32,8 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename=".gitignore" />
 		<Unit filename="Text.txt" />
 		<Unit filename="main.cpp" />
+		<Unit filename="rofle" />
 		<Unit filename="writeText.txt" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

@@ -1,1 +1,5 @@
-
+rofle
+rofle.*
+.gitignore
+*bin*
+*obj*
