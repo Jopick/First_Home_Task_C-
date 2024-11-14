@@ -79,6 +79,7 @@ int main()
     riterText.close();
 
     thisIsCopypast << "file was rewrite";
+    cout << "vtgr";
 
     return 0;
 }
