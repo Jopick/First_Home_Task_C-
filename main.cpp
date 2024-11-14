@@ -82,6 +82,7 @@ int main()
     thisIsCopypast << "file was rewrite";
     cout << "vtgr";
     cout << "Hello world";
+    cout <<"Commit TortoiseGit";
 
     return 0;
 }
